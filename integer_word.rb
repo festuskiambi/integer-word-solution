@@ -1,4 +1,4 @@
-# This function coverts integers from zero to 999,999
+# This function converts integers from zero to 999,999 to words
 
 #Improved the solution I had presented during the interview to one that uses recursion
 
