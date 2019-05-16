@@ -70,5 +70,3 @@ def integer_word(n)
   end
   return result
 end
-
-p integer_word (1232313451)
