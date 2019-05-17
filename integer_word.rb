@@ -8,7 +8,7 @@ def integer_word(n)
   end
 
   int_words = Hash.new()
-  int_words[0] = "one"
+  int_words[0] = "zero"
   int_words[1] = "one"
   int_words[2] = "two"
   int_words[3] = "three"
@@ -70,3 +70,5 @@ def integer_word(n)
   end
   return result
 end
+
+p integer_word (102000)
