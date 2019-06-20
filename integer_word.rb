@@ -1,6 +1,5 @@
 # This function converts integers from zero to 999,999 to words
 
-#Improved the solution I had presented during the interview to one that uses recursion
 
 def integer_word(n)
   if n < 0
